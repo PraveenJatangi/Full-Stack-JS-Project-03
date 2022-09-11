@@ -75,8 +75,9 @@ p {
   justify-content: center;
   align-items: center;
   right: 0px;
-  bottom: -215px;
+  top: 53rem;
 }
+
 .arrow-btns div:first-child {
   background-color: #39372d;
   display: flex;
